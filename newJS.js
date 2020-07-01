@@ -64,3 +64,4 @@ function writeYourGenres(){
 }
 writeYourGenres();
 console.log(personalMovieDb);
+
